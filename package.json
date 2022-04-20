@@ -40,14 +40,14 @@
   "homepage": "https://github.com/missive/cordova-plugin-openwith",
   "# Dependencies required by the hooks": "",
   "dependencies": {
-    "file-system": "^2.2.2",
+    "file-system": "^1.2.2",
     "path": "^0.12.7",
-    "plist": "^2.1.0",
+    "plist": "^3.0.5",
     "xcode": "2.0.0"
   },
   "# Dependencies required to run tests": "",
   "devDependencies": {
-    "eslint": "^4.7.2",
+    "eslint": "^8.13.0",
     "eslint-config-google": "^0.9.1",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
@@ -55,8 +55,8 @@
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
-    "eslint-watch": "^3.1.2",
+    "eslint-watch": "^8.0.0",
     "expect.js": "^0.3.1",
-    "mocha": "^3.5.3"
+    "mocha": "^9.2.2"
   }
 }
